@@ -11,7 +11,7 @@ Hopefully someone else will get some use for things I've developed over the year
 
 | NR | Sections | Description | Root Required | Risks For Bricking Device | May Void Warrany
 | --- | --- | --- | --- | --- | --- |
-| 1 | various/w-grepallapks.sh | Run this script and you will download * apks from your device.                           | No | No | No
+| 1 | various/w-grepallapks.sh | Run this script and you will download * database files from your device.                           | No | No | No
 | 2 | huawei/root-huawei-honor-p8-lite.sh | Root your huawei p8 lite device in 3 minutes or even less                     | No | Yes | Yes
 | 3 | huawei/huawei-bootloader-unlock.sh | A Tool For Hacking & Unlocking Your Huawei Device Locked Bootloader            | No  | No | Yes
 | 4 | oem_unlock--usb_debugging    | A Tutorial For Enable OEM-Unlock and USB-Debugging, required for some of my scripts  | No | No | Yes
